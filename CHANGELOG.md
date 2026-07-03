@@ -1,5 +1,6 @@
 # Unreleased
 
+  * Add support for telephone events (DTMF, RFC 4733) #994
   * Fix VP9 non-flexible SS advertising a bogus R=0 GOF for single-layer streams #999
   * Support G722 audio codec (16 kHz codec with 8 kHz RTP clock per RFC 3551) #992
 
